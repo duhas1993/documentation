@@ -75,4 +75,5 @@ $additional
 |${user.first-name}	|	Имя пользователя. Пример: Ivan				|
 |${user.last-name}	|Фамилия пользователя. Пример: Petrov			|
 |${user.full-name}	|Полное имя пользователя. Пример: Ivan Petrov	|
-|	${user.age}		|	Возраст пользователя. Пример: 25			|
+|	${user.age}		|	Возраст пользователя. Пример: 25
+|/ban
